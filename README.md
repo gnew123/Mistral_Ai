@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# query-genius-fun-and-descriptive
+Query Genius is a lightning-fast AI-powered Q&amp;A web app built with React and Spring Boot. Ask anything, get instant intelligent answers, and experience a clean, professional interface designed for productivity and ease of use.
+>>>>>>> a5c3709c6ab209e7d7e391fb2394e733bfce791c
